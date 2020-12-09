@@ -1,9 +1,10 @@
+package Apache;
+
+import Utils.HTMLParser;
+
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import javax.swing.*;
-import java.net.URL;
 
 public class ApacheProjectInfo {
     private String projectName;

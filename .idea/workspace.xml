@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="MiningProcess.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MiningProcess.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Apache/MiningProcess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            <state relative-caret-position="23">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,10 +26,10 @@
         </entry>
       </file>
       <file leaf-file-name="ApacheProjectInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ApacheProjectInfo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheProjectInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192">
-              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#ApacheProjectInfo#0;class#ApacheProjectInfo#0" />
@@ -40,12 +40,11 @@
         </entry>
       </file>
       <file leaf-file-name="ApacheMining.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ApacheMining.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheMining.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+            <state relative-caret-position="46">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#mining#0;class#ApacheMining#0" />
                 <element signature="method#findData#0;class#ApacheMining#0" />
               </folding>
@@ -54,10 +53,10 @@
         </entry>
       </file>
       <file leaf-file-name="HTMLParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HTMLParser.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Utils/HTMLParser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,6 +94,9 @@
         <option value="$PROJECT_DIR$/src/main/java/HTMLParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/ApacheMining.java" />
         <option value="$PROJECT_DIR$/src/main/java/MiningProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Apache/MiningProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Apache/ApacheProjectInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Apache/ApacheMining.java" />
       </list>
     </option>
   </component>
@@ -169,6 +171,12 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Utils" />
+      <recent name="Apache" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -198,7 +206,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="MiningProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MiningProcess" />
+      <option name="MAIN_CLASS_NAME" value="Apache.MiningProcess" />
       <module name="step1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -279,7 +287,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -290,12 +298,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.53927815" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2760085" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14791666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14791666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -345,7 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HeaderPool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utils/HeaderPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
@@ -362,32 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HTMLParser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheProjectInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ApacheMining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#mining#0;class#ApacheMining#0" />
-            <element signature="method#findData#0;class#ApacheMining#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ApacheProjectInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#ApacheProjectInfo#0;class#ApacheProjectInfo#0" />
@@ -396,10 +382,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MiningProcess.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheMining.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        <state relative-caret-position="46">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <element signature="method#mining#0;class#ApacheMining#0" />
+            <element signature="method#findData#0;class#ApacheMining#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utils/HTMLParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Apache/MiningProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
