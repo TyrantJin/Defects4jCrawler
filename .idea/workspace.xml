@@ -13,11 +13,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="GithubRepoMining.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Github/GithubRepoMining.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GithubProjectInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Github/GithubProjectInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="method#GithubProjectInfo#0;class#GithubProjectInfo#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MiningProcess.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Apache/MiningProcess.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Github/MiningProcess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="58">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -25,40 +46,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApacheProjectInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheProjectInfo.java">
+      <file leaf-file-name="GithubRepoMiningTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Github/GithubRepoMiningTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#ApacheProjectInfo#0;class#ApacheProjectInfo#0" />
-                <element signature="method#parseInfo#0;class#ApacheProjectInfo#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApacheMining.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheMining.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              <folding>
-                <element signature="method#mining#0;class#ApacheMining#0" />
-                <element signature="method#findData#0;class#ApacheMining#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HTMLParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Utils/HTMLParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,12 +79,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/HTMLParserTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ApacheMiningTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ApacheProjectInfoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/HeaderPool.java" />
-        <option value="$PROJECT_DIR$/src/test/java/UAFake.java" />
         <option value="$PROJECT_DIR$/src/main/java/ApacheProjectInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/HTMLParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/ApacheMining.java" />
@@ -97,6 +90,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Apache/MiningProcess.java" />
         <option value="$PROJECT_DIR$/src/main/java/Apache/ApacheProjectInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Apache/ApacheMining.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UAFake.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Github/RepoListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Github/RepoList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Github/GithubProjectInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Github/MiningProcess.java" />
       </list>
     </option>
   </component>
@@ -153,6 +152,22 @@
               <item name="BugInfoMining" type="b2602c69:ProjectViewProjectNode" />
               <item name="step1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Apache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BugInfoMining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="step1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BugInfoMining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="step1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -161,6 +176,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BugInfoMining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="step1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Github" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,21 +212,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MiningProcess">
-    <configuration name="ApacheMiningTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ApacheMiningTest" />
-      <module name="step1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.MiningProcess (1)">
     <configuration name="ApacheProjectInfoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ApacheProjectInfoTest" />
       <module name="step1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="HTMLParserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HTMLParserTest" />
+    <configuration name="GithubRepoMiningTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Github.GithubRepoMiningTest" />
       <module name="step1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MiningProcess (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Github.MiningProcess" />
+      <module name="step1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="MiningProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Apache.MiningProcess" />
@@ -257,19 +292,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HTMLParserTest" />
-      <item itemvalue="Application.ApacheMiningTest" />
       <item itemvalue="Application.ApacheProjectInfoTest" />
       <item itemvalue="Application.MiningProcess" />
       <item itemvalue="Application.UAFake" />
+      <item itemvalue="Application.GithubRepoMiningTest" />
+      <item itemvalue="Application.MiningProcess (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MiningProcess" />
+        <item itemvalue="Application.MiningProcess (1)" />
+        <item itemvalue="Application.GithubRepoMiningTest" />
         <item itemvalue="Application.UAFake" />
+        <item itemvalue="Application.MiningProcess" />
         <item itemvalue="Application.ApacheProjectInfoTest" />
-        <item itemvalue="Application.ApacheMiningTest" />
-        <item itemvalue="Application.HTMLParserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -287,23 +322,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3312102" />
+      <window_info anchor="bottom" id="Messages" weight="0.32908705" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2760085" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.54140127" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14791666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14791666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -346,13 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Utils/HeaderPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -360,20 +388,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/UAFake.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utils/HTMLParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheMining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mining#0;class#ApacheMining#0" />
+            <element signature="method#findData#0;class#ApacheMining#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UAFake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheProjectInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="253">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#ApacheProjectInfo#0;class#ApacheProjectInfo#0" />
@@ -382,31 +439,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Apache/ApacheMining.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Github/GithubRepoMining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Github/GithubRepoMiningTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding>
-            <element signature="method#mining#0;class#ApacheMining#0" />
-            <element signature="method#findData#0;class#ApacheMining#0" />
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Utils/HTMLParser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Github/GithubProjectInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="519">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#GithubProjectInfo#0;class#GithubProjectInfo#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Apache/MiningProcess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="345">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Github/MiningProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

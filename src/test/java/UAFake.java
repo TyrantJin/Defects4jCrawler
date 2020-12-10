@@ -3,6 +3,8 @@ import org.jsoup.Jsoup;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class UAFake {
     public static void main(String[] args){
@@ -18,9 +20,7 @@ public class UAFake {
 //        }catch(Exception e){
 //            System.out.println("GG");
 //        }
-        String a="a b";
-        String b=a.replaceAll(" ","");
-        System.out.println(a+"||"+b);
+
     }
 
     public static void f(){
